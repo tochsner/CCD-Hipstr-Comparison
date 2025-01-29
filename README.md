@@ -4,7 +4,7 @@ This directory contains the point estimates we obtained using the following esti
 
 ## CCD0-full
 
-We used the full CCD0 algorithm as published in [version 1.0.2](https://github.com/CompEvol/CCD/releases/tag/v1.0.2) of the CCD0 package.
+We used the full CCD0 algorithm as published as [version 1.0.2](https://github.com/CompEvol/CCD/releases/tag/v1.0.2) of the CCD0 package. The source code can be found in [this repo](https://github.com/CompEvol/CCD/blob/results/src/ccd/model/CCD0.java).
 
 | Dataset         | log(MCC) |
 | --------------- | -------- |
@@ -15,7 +15,7 @@ We used the full CCD0 algorithm as published in [version 1.0.2](https://github.c
 
 ## CCD0-no-expansion
 
-These results are obtained with the CCD0 parameterization on the CCD1 graph with no expansion (not adding any unobserved clade splits).
+These results are obtained with the CCD0 parameterization on the CCD1 graph with no expansion (not adding any unobserved clade splits). The source code can be found in [this repo](https://github.com/CompEvol/CCD/blob/results/src/ccd/model/CCD0.java).
 
 | Dataset          | log(MCC)  |
 | ---------------- | --------- |
