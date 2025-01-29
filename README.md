@@ -1,3 +1,5 @@
+# CCD0 and Hipstr results
+
 This directory contains the point estimates we obtained using the following estimators. No burn-in was used.
 
 ## CCD0-full
